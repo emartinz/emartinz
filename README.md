@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola, soy Edgar Andrés! 👋
 
-<!--
-**emartinz/emartinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Sobre mí:
+- 💻 Soy un desarrollador Backend con experiencia en Java y Spring Boot.
+- 🌐 Me apasiona el desarrollo de software.
+- 📚 Siempre aprendiendo nuevas tecnologías y mejores prácticas.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías:
+- **Lenguajes:** Java, PHP, C#, SQL, JavaScript
+- **Frameworks:** Spring Boot, WebFlux, Spring Cloud
+- **Bases de datos:** MySQL, PostgreSQL
+- **Herramientas:** Docker, Swagger, IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Contacto:
+- 💼 [Mi LinkedIn](https://www.linkedin.com/in/edgarandres)
+- 🌎 [Mi Portafolio](https://tusitio.com)
+- 📧 **Correo:** edgar.andres@example.com
