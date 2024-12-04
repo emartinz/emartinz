@@ -1,32 +1,19 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGrB8VtYN4_mg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724693382343?e=1738800000&v=beta&t=KdT4QM5mRSqD_x49BWtmo8Pj-38SW72WsucDLHrmFng">
-
 # ¡Hola, soy Edgar Andrés! 👋
- 
+
 ### 🌟 Sobre mí:
-- 💻 Soy un desarrollador Backend con experiencia en Java y Spring Boot.
-- 🌐 Me apasiona el desarrollo de software.
-- 📚 Siempre aprendiendo nuevas tecnologías y mejores prácticas.
+- 💻 **Desarrollador Backend** con sólida experiencia en **Java** y **Spring Boot**. Apasionado por construir soluciones robustas y escalables.
+- 🌐 **Entusiasta del desarrollo de software**, siempre buscando mejorar y optimizar mis habilidades para crear productos de calidad.
+- 🤖 **No soy un robot**, pero me encanta trabajar con ellos. Me apasiona resolver problemas complejos y encontrar la mejor solución posible.
+- 📚 **Aprendiz continuo**: constantemente incorporando nuevas tecnologías y mejores prácticas para mantenerme a la vanguardia en la industria.
 
 ### 🌐 **Contacto:**
-<ul style="list-style: none; padding-left: 0;">
-  <li style="display: flex; align-items: flex-end;">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="20" height="20" style="vertical-align: bottom; margin-right: 10px;"> 
-    <a href="www.linkedin.com/in/edgar-andres-martinez-zapata-684a67116">LinkedIn</a>
-  </li>
-  <!--<li style="display: flex; align-items: flex-end;">
-    <img src="https://img.icons8.com/ios/50/000000/portfolio.png" width="20" height="20" style="vertical-align: bottom; margin-right: 10px;"> 
-    <a href="https://tusitio.com">Portafolio</a>
-  </li>-->
-  <li style="display: flex; align-items: flex-end;">
-    <img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" width="20" height="20" style="vertical-align: bottom; margin-right: 10px;"> 
-    <a href="mailto:edgar.a.mz@gmail.com">Correo: edgar.a.mz@gmail.com</a>
-  </li>
-</ul>
+[<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="40" height="40">](https://www.linkedin.com/in/edgar-andres-martinez-zapata-684a67116)
+[<img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" width="40" height="40">](mailto:edgar.a.mz@gmail.com)
 
 ### 🚀 Tecnologías:
 | **Categoría** | **Habilidades** |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Desarrollo** | ![Java](https://badge.ttsalpha.com/api?icon=openjdk&label=Java&status=v7%2C%208%2C%2017&color=303030&labelColor=F89820&iconColor=white) ![Spring](https://badge.ttsalpha.com/api?icon=spring&label=Spring&status=framework&color=303030&labelColor=6DB33F&iconColor=white) ![WebFlux](https://badge.ttsalpha.com/api?icon=spring&label=WebFlux&status=reactive&color=303030&labelColor=6DB33F&iconColor=white) ![JSF](https://badge.ttsalpha.com/api?icon=GitBook&label=JSF&status=jakarta&color=303030&labelColor=007396&iconColor=white) ![JPA](https://badge.ttsalpha.com/api?icon=GitBook&label=JPA&status=orm&color=303030&labelColor=007396&iconColor=white) ![Hibernate](https://badge.ttsalpha.com/api?icon=hibernate&label=Hibernate&status=orm&color=303030&labelColor=9D6552&iconColor=white) ![PHP](https://badge.ttsalpha.com/api?icon=php&label=PHP&status=8.0%2B&color=303030&labelColor=777BB4&iconColor=white) ![.NET](https://badge.ttsalpha.com/api?icon=dotnet&label=.NET&status=6.0&color=303030&labelColor=5C2D91&iconColor=white) ![C#](https://badge.ttsalpha.com/api?icon=dotnet&label=C%23&status=language&color=303030&labelColor=5C2D91&iconColor=white) ![Entity Framework](https://badge.ttsalpha.com/api?icon=dotnet&label=Entity%20Framework&status=orm&color=303030&labelColor=5C2D91&iconColor=white) ![LINQ](https://badge.ttsalpha.com/api?icon=dotnet&label=LINQ&status=query&color=303030&labelColor=5C2D91&iconColor=white) ![JavaScript](https://badge.ttsalpha.com/api?icon=javascript&label=JavaScript&status=ES6%2B&color=303030&labelColor=F7DF1E&iconColor=black) ![Angular](https://badge.ttsalpha.com/api?icon=angular&label=Angular&status=framework&color=303030&labelColor=DD0031&iconColor=white) ![JQuery](https://badge.ttsalpha.com/api?icon=jquery&label=JQuery&status=library&color=303030&labelColor=0769AD&iconColor=white) |
+| **Desarrollo** | ![Java](https://badge.ttsalpha.com/api?icon=openjdk&label=Java%20%7C%20Jakarta&status=v7%2C%20v8%2C%20v17&color=303030&labelColor=F89820&iconColor=white) ![Spring](https://badge.ttsalpha.com/api?icon=spring&label=Spring&status=framework&color=303030&labelColor=6DB33F&iconColor=white) ![WebFlux](https://badge.ttsalpha.com/api?icon=spring&label=WebFlux&status=reactive&color=303030&labelColor=6DB33F&iconColor=white) ![JSF](https://badge.ttsalpha.com/api?icon=GitBook&label=JSF&status=jakarta&color=303030&labelColor=007396&iconColor=white) ![JPA](https://badge.ttsalpha.com/api?icon=GitBook&label=JPA&status=orm&color=303030&labelColor=007396&iconColor=white) ![Hibernate](https://badge.ttsalpha.com/api?icon=hibernate&label=Hibernate&status=orm&color=303030&labelColor=9D6552&iconColor=white) ![PHP](https://badge.ttsalpha.com/api?icon=php&label=PHP&status=8.0%2B&color=303030&labelColor=777BB4&iconColor=white) ![.NET](https://badge.ttsalpha.com/api?icon=dotnet&label=.NET&status=6.0&color=303030&labelColor=5C2D91&iconColor=white) ![C#](https://badge.ttsalpha.com/api?icon=dotnet&label=C%23&status=language&color=303030&labelColor=5C2D91&iconColor=white) ![Entity Framework](https://badge.ttsalpha.com/api?icon=dotnet&label=Entity%20Framework&status=orm&color=303030&labelColor=5C2D91&iconColor=white) ![LINQ](https://badge.ttsalpha.com/api?icon=dotnet&label=LINQ&status=query&color=303030&labelColor=5C2D91&iconColor=white) ![JavaScript](https://badge.ttsalpha.com/api?icon=javascript&label=JavaScript&status=ES6%2B&color=303030&labelColor=F7DF1E&iconColor=black) ![Angular](https://badge.ttsalpha.com/api?icon=angular&label=Angular&status=framework&color=303030&labelColor=DD0031&iconColor=white) ![JQuery](https://badge.ttsalpha.com/api?icon=jquery&label=JQuery&status=library&color=303030&labelColor=0769AD&iconColor=white) |
 | **Web Services** | ![REST](https://badge.ttsalpha.com/api?icon=kashflow&label=REST&status=api&color=303030&labelColor=007396&iconColor=white) ![SOAP](https://badge.ttsalpha.com/api?icon=kashflow&label=SOAP&status=api&color=303030&labelColor=007396&iconColor=white) |
 | **Control de Versiones** | ![GIT](https://badge.ttsalpha.com/api?icon=git&label=GIT&status=version%20control&color=303030&labelColor=F05033&iconColor=white) |
 | **Nube** | ![AWS](https://badge.ttsalpha.com/api?icon=amazonwebservices&label=AWS&status=cloud&color=303030&labelColor=FF9900&iconColor=white) |
