@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/emartinz/emartinz/main/banner.jpeg">
+
 # ¡Hola, soy Edgar Andrés! 👋
 
 ### 🌟 Sobre mí:
